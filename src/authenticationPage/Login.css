@@ -1,0 +1,24 @@
+.googleSigning {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+
+  padding: 8px;
+  border-radius: 25px;
+
+  border: 1px solid #d9d9d9;
+  cursor: pointer;
+}
+.googleSigningBtn {
+  background-color: transparent;
+}
+.googleSigningBtn:hover {
+  background-color: #d1d1d1;
+}
+.SigningBtn {
+  background-color: #0D80D8;
+}
+.SigningBtn:hover {
+    background-color: #065fa3;
+  }
